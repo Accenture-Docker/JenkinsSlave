@@ -1,5 +1,5 @@
 # JenkinsSlave
-[Docker Installation Guide] (https://docs.docker.com/docker-for-windows/)
+[Docker Installation Guide](https://docs.docker.com/docker-for-windows/)
 
 # Official Jenkins Docker image
 
